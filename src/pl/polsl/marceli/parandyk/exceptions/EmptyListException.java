@@ -2,7 +2,7 @@ package pl.polsl.marceli.parandyk.exceptions;
 
 /**
  *  Class cointaining empty list extension
- * @version 2.0
+ * @version 3.0
  * @author Marceli Parandyk
  */
 public class EmptyListException extends Exception{

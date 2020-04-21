@@ -14,7 +14,7 @@ import java.util.Scanner;
  * Class containing data given by user, fields containg variables of requested
  * values and calcualtion methods needed to obtain them.
  * @author Marceli Parandyk
- * @version 2.0
+ * @version 3.0
  */
 public class Model {
     

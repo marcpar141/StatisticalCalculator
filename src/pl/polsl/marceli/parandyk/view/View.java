@@ -6,7 +6,7 @@ import java.util.List;
  * Class containing methods responsible for informing user of current states
  * and printing results of calculations
  * @author Marceli
- * @version 2.0
+ * @version 3.0
  */
 public class View {
     

@@ -9,7 +9,7 @@ import pl.polsl.marceli.parandyk.controller.Controller;
  * like standard deviation, average and median.
  * 
  * @author Marceli Parandyk
- * @version 2.0
+ * @version 3.0
  */
 public class Main {
     

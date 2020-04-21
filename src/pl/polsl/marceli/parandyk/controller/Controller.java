@@ -8,7 +8,7 @@ import pl.polsl.marceli.parandyk.view.View;
 /**
  * Class containing all needed methods required to operate calculator.
  * @author Marceli Parandyk
- * @version 2.0
+ * @version 3.0
  */
 public class Controller {
     
